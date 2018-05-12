@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31546'
     url: http://www.gutenberg.org/2009/agents/31546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17435#The-Days-of-Mohammed
 gutenberg_issued: '2005-12-31'
 gutenberg_type: Text
 identifiers:
