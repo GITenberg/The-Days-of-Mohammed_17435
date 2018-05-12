@@ -1,0 +1,24 @@
+_repo: The-Days-of-Mohammed_17435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Anna May
+    gutenberg_agent_id: '31546'
+    url: http://www.gutenberg.org/2009/agents/31546
+description: ''
+gutenberg_issued: '2005-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Muhammad, Prophet, -632 -- Fiction'
+title: The Days of Mohammed
+url: http://www.gutenberg.org/ebooks/17435
